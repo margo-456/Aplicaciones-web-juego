@@ -20,7 +20,7 @@ var score = 0;
 // Create a variable to hold our scoreLabel
 var scoreLabel;
 
-
+//funcion
 
 function startGame() {  //funcion iniciar juego
     gameCanvas.start();//inicializamos el juego gamecanvas
