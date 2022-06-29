@@ -1,0 +1,15 @@
+canvas {
+    border:2px solid rgb(219, 34, 170);
+    background-color: #60e8ec;
+    margin-left:550px;
+    margin-top: 210px;
+    
+}
+body{
+   background-image:url("/static/imagenes/fond.png") ;
+   background-color: aquamarine;
+}
+h1{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ color: rgb(14, 9, 11);   
+}
